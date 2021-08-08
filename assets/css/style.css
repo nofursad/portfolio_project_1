@@ -8,6 +8,7 @@
 body {
     font-family: Lato, sans-serif;
     font-weight: 300;
+    color: #202030;
 }
 
 
@@ -18,10 +19,40 @@ h1, h2 {
     text-transform: uppercase;
     letter-spacing: 2px;
     text-decoration: none;
-    color: black;
+    color: #39304A;
 }
 
 #logo {
     float: left;
     font-size: 280%;
 }
+
+nav  ul {
+    font-size: 120%;
+    letter-spacing: 2px;
+    float: right;
+}
+
+nav li {
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 25px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#logo, nav {
+    line-height: 75px;
+}
+
+nav li a:hover {
+    border-bottom: 1px solid black;
+}
+
+.active {
+    border-bottom: 1px solid black;
+}
+
