@@ -9,7 +9,19 @@ body {
     font-family: Lato, sans-serif;
     font-weight: 300;
 }
-#logo img {
-    width: 75px;
-    height: 75px;;
+
+
+/* heading and logo */
+
+h1, h2 {
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-decoration: none;
+    color: black;
+}
+
+#logo {
+    float: left;
+    font-size: 280%;
 }
