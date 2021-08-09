@@ -25,6 +25,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 280%;
+    padding-left: 3em;
 }
 
 nav  ul {
@@ -56,3 +57,10 @@ nav li a:hover {
     border-bottom: 1px solid black;
 }
 
+header img {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 1em;
+    left: 1em;
+}
