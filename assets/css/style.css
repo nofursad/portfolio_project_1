@@ -114,12 +114,35 @@ header img {
 #play-session {
     width: 70%;
     margin: 10px auto;
+    display: inline-flex ;
 }
 .card {
     width:33%;
-    height: 200px;
+    height: 400px;
     border: 1px solid black;
     text-align: center;
     padding: 20px;
+    display: inline-block;
     
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;   
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
 }
