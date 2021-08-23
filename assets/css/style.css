@@ -29,7 +29,8 @@ ul {
 img {
     width: 100%;
 }
-/* heading and logo */
+
+/************ heading and logo ************/
 
 header {
     width: 70%;
@@ -37,7 +38,8 @@ header {
     position: relative;
 }
 
-h1, h2 {
+h1,
+h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -48,10 +50,16 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 230%;
-    padding-left: 3.5em;
+    padding-left: 2.8em;
 }
 
-nav  ul {
+#other-pages-logo {
+    float: left;
+    font-size: 230%;
+    padding-left: 2em;
+}
+
+nav ul {
     font-size: 120%;
     letter-spacing: 2px;
     float: right;
@@ -66,8 +74,10 @@ nav li a:hover {
     border-bottom: 1px solid black;
 }
 
-#logo, nav {
-    line-height: 75px;
+#logo,
+#other-pages-logo,
+nav {
+    line-height: 85px;
 }
 
 .active {
@@ -76,29 +86,50 @@ nav li a:hover {
 
 header img {
     width: 100px;
-    height: 100px;
+    height: auto;
     position: absolute;
-    top: 1em;
-    left: 1em;
+    top: 10px;
+    left: 0px;
+    z-index: 10;
 }
 
-/* hero image */
+#other-pages-img {
+    width: 70px;
+    height: auto;
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    z-index: 10;
+}
+
+
+/************ main ************/
+
+main {
+    clear: both;
+}
+
+
+/************ hero image ************/
 
 #hero-image {
     background: url('../images/hero-image.JPG') no-repeat center center;
     height: 800px;
-    clear: both;
 }
 
-/* About Us */
+/************ About Us ************/
 
 #about-us {
     width: 70%;
-    height: 300px;
+    height: auto;
     margin: -40px auto 20px;
     padding: 25px;
     background-color: #fff;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, 
+                rgba(0, 0, 0, 0.12) 0px -12px 30px, 
+                rgba(0, 0, 0, 0.12) 0px 4px 6px, 
+                rgba(0, 0, 0, 0.17) 0px 12px 13px, 
+                rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 
 #about-us h1 {
@@ -107,14 +138,14 @@ header img {
     padding-top: 1rem;
 }
 
-#about-us > p {
+#about-us>p {
     text-align: center;
     padding: 40px;
     line-height: 1.5em;
     letter-spacing: 1px;
 }
 
-/* Game Session */
+/************ Game Session ************/
 
 #play-session {
     width: 70%;
@@ -126,16 +157,18 @@ header img {
     background-size: cover;
     background-position: bottom;
 }
+
 .card {
-    background-color: rgba(0, 0, 0, .6);
+    background-color: rgba(0, 0, 0, .7);
     height: 300px;
-    padding: 30px 0 0 10px;
+    padding: 50px 15px 0 10px;
     text-align: center;
     border: 2px solid #fff;
     color: #fff;
 }
 
-.card h3, .card h4 {
+.card h3,
+.card h4 {
     line-height: 1.6rem;
 }
 
@@ -143,17 +176,17 @@ header img {
     text-transform: uppercase;
 }
 
-/* footer */
+/************ footer ************/
 
 footer {
     height: 150px;
 }
 
 .social-networks {
-    text-align: center;   
+    text-align: center;
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
 }
 
