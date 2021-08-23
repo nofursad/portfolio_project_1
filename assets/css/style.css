@@ -202,7 +202,7 @@ footer {
 #form-image {
     background-image: url(../images/hero-image.JPG);
     background-repeat: no-repeat;
-    background-size: center;
+    background-size: auto;
     background-position: center;
     height: 800px;
     position: relative;
