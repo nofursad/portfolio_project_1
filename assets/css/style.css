@@ -275,7 +275,7 @@ form h2 {
 
 
 
-/*********** Media Queries ***********/
+/*********** Media Queries for responsiveness ***********/
 
 /* For large to medium screens sizes from 1440px wide to down */
 @media screen and (max-width: 1440px){
@@ -367,4 +367,75 @@ form h2 {
         height: 90px;
     }
 
+}
+
+
+/* For mobile screen size from 500px wide and down */
+
+@media screen and (max-width: 502px) {
+    #logo,
+    #other-pages-logo {
+        display: none;
+    }
+
+    header img,
+    #other-pages-img{
+        left: 5px;
+        top: 5px;
+    }
+
+    nav {
+        line-height: 50px;
+    }
+
+    nav ul {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        letter-spacing: 0px;
+    }
+
+    nav li {
+        margin-right: 10px;
+    }
+
+    #hero-image {
+        height: 400px;
+    }
+
+    #about-us {
+        padding: 10px;
+    }
+
+    #about-us h1 {
+        font-size: 210%;
+    }
+
+    #about-us p {
+        padding: 20px;
+        text-align: justify;
+    }
+
+    .gallary-card {
+        grid-template-columns: none;
+    }
+
+    .gallary-card img:hover {
+        transform: none;
+    }
+
+    .gallary-wrap {
+        width: 90%;
+    }
+    
+    #form-image {
+        height: 500px;
+    }
+
+    .contactus-form {
+        margin: 30px 10% 0 0;
+        padding: 10px;
+    }
+    .contactus-form h2 {
+        font-size: 140%;
+    }
 }
