@@ -286,3 +286,85 @@ form h2 {
         width: 90%;
     }
 }
+
+/* For medium to small screens sizes from 1024px wide to down */
+@media screen and (max-width: 1024px){
+    
+    .gallary-card {
+        grid-template-columns: repeat(3, auto);
+    }
+
+    #hero-image {
+        height: 600px;
+    }
+
+    .gallary-wrap {
+        width: 90%;
+    }
+}
+
+/* For small screens sizes from 800px wide and down */
+@media screen and (max-width: 956px) {
+
+    header,
+    #about-us,
+    #play-session {
+        width: 100%;
+    }
+
+    header img,
+    #other-pages-img {
+        width: 60px;
+        left: 10px;
+    }
+
+    #logo,
+    #other-pages-logo {
+        line-height: 75px;
+    }
+
+    #logo {
+        padding-left: 2em;
+    }
+
+    nav {
+        line-height: 25px;
+    }
+
+    nav ul {
+        clear: left;
+        float: right;
+        margin-bottom: 1em;
+        margin-top: -0.5em;
+        display: inline;
+    }
+
+    #play-session {
+        grid-template-rows: repeat(5, auto);
+        grid-template-columns: none;
+    }
+
+    .card {
+        display: inline;
+        width: 100%;
+        height: auto;
+        padding: 30px 0;
+    }
+
+    .gallary-card {
+        grid-template-columns: repeat(2, auto);
+    }
+
+    .gallary-card img:hover {
+        transform: scale(1.75);
+    }
+
+    .gallary-wrap {
+        width: 90%;
+    }
+
+    footer {
+        height: 90px;
+    }
+
+}
