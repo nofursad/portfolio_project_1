@@ -272,3 +272,17 @@ form h2 {
     transform: scale(2);
     transition: 0.25s;
 }
+
+
+
+/*********** Media Queries ***********/
+
+/* For large to medium screens sizes from 1440px wide to down */
+@media screen and (max-width: 1440px){
+
+    header,
+    #about-us,
+    #play-session {
+        width: 90%;
+    }
+}
