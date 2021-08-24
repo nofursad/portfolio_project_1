@@ -24,6 +24,35 @@ My main target was to build the website with information about the club which ca
 
 
 ## Features
+  
+* **Navigation**  
+  * At the top of the page, the navigation shows the logo of the club in the left corner followed by the name of the club: Danfe Badminton Society that links to the top of the page.  
+  * On the right side of the Navigation, Links to other pages of the website is available: Home, Gallery and Contact Us page.  
+  * The button link to the current page is underlined in the navigation bar to let user know what page they are at.  
+  
+* **The Header**  
+  * The header section consist of picture of the player who is ready to play the game.  
+  
+* **The Welcome Section**  
+  * The welcome section of the index page gives the details about when the club was form and what is the main purpose behind forming the club.  
+  * This section also give the benefit of playing the badminton on our health and how often do they organize the game.  
+  
+* **The Play time Section**  
+  * This section of the page provide the details of the location and time of the day where the game is held.  
+  * This section is targeted to the user who want the information about time and location of the game during the weekdays.  
+  
+* **Footer**  
+  * The Footer section of all the pages consist of the media icon which are link to the club’s social media pages.  
+  * The footer section consist of Facebook, twitter, youtube and instagram icon which are linked to the club’s page.  
+  
+* **The  Gallery Page**  
+  * The Gallery page provide few pictures of the club activity which was taken during the summer chill out event of the club.  
+  * The gallery page give an opportunity for a user to see the activity that takes place in club and the picture of player playing the game.  
+  
+* **The Contact Us Page**  
+  * The contact us page is useful to all the user who come to page and want to get in touch to play badminton with club.  
+  * The contact us page have a form to provide the detail of the user who want to get in touch with club.  
+  * The form collect the Full name, email address and mobile number of the user.  
 
 
 ## Testing
