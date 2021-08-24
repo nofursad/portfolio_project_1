@@ -2,12 +2,13 @@
 
 # Danfe Badminton Society
 
-This is a website for a client who runs a Badminton club. This website is dedicated to provide the information to anyone who would like to join the club and start playing badminton with the club members. This website contain the information about club, where and what time they play, few picture in gallery and contact form. This website is targeted towards the people who want to play badminton in their spare time to stay fit and healthy. 
+This is a website for a client who runs a Badminton club. This website is dedicated to provide the information to anyone who would like to join the club and start playing badminton with the club members. This website contain the information about club, where and what time they play, few picture in gallery and contact form. This website is targeted towards the people who want to play badminton in their spare time to stay fit and healthy.
 
 
 ## Demo
 
 A live demo can be found [here](https://nofursad.github.io/portfolio_project_1/)  
+  
 ![Responsiveness](https://nofursad.github.io/portfolio_project_1/assets/images/readme/Responsive_pic.png)
 
 
@@ -43,16 +44,19 @@ I went back and corrected that in footer section of all the pages in website.
 No Unfixed Bugs
 
 ### Validator Testing
-HTML: I tested the code through the official *W3C validator* and all test pass without any error.  
-CSS:  I tested the code through the official *W3C (Jigsaw) validator* and all test pass without any error.  
+HTML: I tested the code through the official **W3C validator** and all test pass without any error.  
+  
+CSS:  I tested the code through the official **W3C (Jigsaw) validator** and all test pass without any error.  
+  
 Accessibility: I have confirmed that texts on the website are easy to read by choosing the right color and fonts. And confirm website is accessible by running it through *lighthouse* in devtools.  
+  
 ![Accessibility](https://nofursad.github.io/portfolio_project_1/assets/images/readme/Validity.png)
 
 
 ## Deployment
 
-I have used GitHub to deployed the website. Below are the steps that i took to deploy the website:  
-1. In the GitHub repository, navigate to the Setting tab.
+I have used GitHub to deployed the website. Below are the steps that I took to deploy the website:  
+1. In the GitHub repository, navigate to the Setting tab.<br />
 2. From the source section drop-down menu, select the Master Branch.
 3. Once the master branch has been selected, the page provided the link to the completed website.
 
