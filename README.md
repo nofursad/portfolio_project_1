@@ -70,4 +70,4 @@ All Content written in the about section of this website was provided from the c
 All photos and logo that has been used in the website were provided by client which was taken during the summer chill out even of the club.
   
 ### Acknowledgements
-The code to make the social media links was taken from the CI Love Running Project.
+The code to make the social media links was taken from the CI [Love Running](https://github.com/nofursad/love-running.git) Project.
