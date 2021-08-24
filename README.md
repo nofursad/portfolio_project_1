@@ -7,7 +7,7 @@ This is a website for a client who runs a Badminton club. This website is dedica
 
 ## Demo
 
-A live demo can be found [here](https://nofursad.github.io/portfolio_project_1/)
+A live demo can be found [here](https://nofursad.github.io/portfolio_project_1/)  
 ![Responsiveness](https://nofursad.github.io/portfolio_project_1/assets/images/readme/Responsive_pic.png)
 
 
@@ -27,34 +27,34 @@ My main target was to build the website with information about the club which ca
 
 ## Testing
 
-1. I have tested the page in multiple browser (i.e., Safari, Chrome, Firefox) and make sure that it works fine in all of them.
-2. I have tested the website for its responsiveness on different screen size device using the devtools device toolbar in chrome browser.
-3. I have confirmed that all the text in all section of the website are readable and easy to understand.
-4. I have tested and confirmed that the form works and requires entries in every field, will only accept an email in the email field, UK mobile number in phone number field and the submit button works.
+* I have tested the page in multiple browser (i.e., Safari, Chrome, Firefox) and make sure that it works fine in all of them.
+* I have tested the website for its responsiveness on different screen size device using the devtools device toolbar in chrome browser.
+* I have confirmed that all the text in all section of the website are readable and easy to understand.
+* I have tested and confirmed that the form works and requires entries in every field, will only accept an email in the email field, UK mobile number in phone number field and the submit button works.
 
 
 ## Bugs
 
 ### Solved Bugs
-When i tested the codes of this website in the W3C validator, I found out that I closed the <i> tag twice in every line.
+When i tested the codes of this website in the W3C validator, I found out that I closed the `<i>` tag twice in every line.  
 I went back and corrected that in footer section of all the pages in website.
 
 ### Unfixed Bug
 No Unfixed Bugs
 
 ### Validator Testing
-HTML: I tested the code through the official W3C validator and all test pass without any error.
-CSS:  I tested the code through the official W3C (Jigsaw) validator and all test pass without any error.
-Accessibility: I have confirmed that texts on the website are easy to read by choosing the right color and fonts. And confirm website is accessible by running it through lighthouse in devtools.
+HTML: I tested the code through the official *W3C validator* and all test pass without any error.  
+CSS:  I tested the code through the official *W3C (Jigsaw) validator* and all test pass without any error.  
+Accessibility: I have confirmed that texts on the website are easy to read by choosing the right color and fonts. And confirm website is accessible by running it through *lighthouse* in devtools.  
 ![Accessibility](https://nofursad.github.io/portfolio_project_1/assets/images/readme/Validity.png)
 
 
 ## Deployment
 
 I have used GitHub to deployed the website. Below are the steps that i took to deploy the website:  
-In the GitHub repository, navigate to the Setting tab
-From the source section drop-down menu, select the Master Branch
-Once the master branch has been selected, the page provided the link to the completed website.
+1. In the GitHub repository, navigate to the Setting tab.
+2. From the source section drop-down menu, select the Master Branch.
+3. Once the master branch has been selected, the page provided the link to the completed website.
 
 
 ## Credits
