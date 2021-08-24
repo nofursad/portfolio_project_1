@@ -38,17 +38,17 @@ My main target was to build the website with information about the club which ca
 
 ### Solved Bugs
 When i tested the codes of this website in the W3C validator, I found out that I closed the `<i>` tag twice in every line.  
-I went back and corrected that in footer section of all the pages in website.
-
+I went back and corrected that in footer section of all the pages in website.  
+  
 ### Unfixed Bug
-No Unfixed Bugs
-
-### Validator Testing
-HTML: I tested the code through the official **W3C validator** and all test pass without any error.  
+No Unfixed Bugs.  
   
-CSS:  I tested the code through the official **W3C (Jigsaw) validator** and all test pass without any error.  
+## Validator Testing
+**HTML**: I tested the code through the official **W3C validator** and all test pass without any error.  
   
-Accessibility: I have confirmed that texts on the website are easy to read by choosing the right color and fonts. And confirm website is accessible by running it through *lighthouse* in devtools.  
+**CSS**:  I tested the code through the official **W3C (Jigsaw) validator** and all test pass without any error.  
+  
+**Accessibility**: I have confirmed that texts on the website are easy to read by choosing the right color and fonts. And confirm website is accessible by running it through **lighthouse** in devtools.  
   
 ![Accessibility](https://nofursad.github.io/portfolio_project_1/assets/images/readme/Validity.png)
 
@@ -59,15 +59,15 @@ I have used GitHub to deployed the website. Below are the steps that I took to d
 1. In the GitHub repository, navigate to the Setting tab.<br />
 2. From the source section drop-down menu, select the Master Branch.
 3. Once the master branch has been selected, the page provided the link to the completed website.
-
+  
 
 ## Credits
 
 ### Content
 All Content written in the about section of this website was provided from the client.
-
+  
 ### Media
 All photos and logo that has been used in the website were provided by client which was taken during the summer chill out even of the club.
-
+  
 ### Acknowledgements
 The code to make the social media links was taken from the CI Love Running Project.
