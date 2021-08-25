@@ -1,4 +1,4 @@
-![Danfe Badminton Society Logo](https://nofursad.github.io/portfolio_project_1/assets/images/Danfe_Logo_300.png)
+![Danfe Badminton Society Logo](https://nofursad.github.io/portfolio_project_1/Danfe_Logo_300.png)
 
 # Danfe Badminton Society
 
@@ -9,7 +9,9 @@ This is a website for a client who runs a Badminton club. This website is dedica
 
 A live demo can be found [here](https://nofursad.github.io/portfolio_project_1/)  
   
-![Responsiveness](https://nofursad.github.io/portfolio_project_1/assets/images/readme/Responsive_pic.png)
+[GitHub Repo](https://github.com/nofursad/portfolio_project_1.git)  
+    
+![Responsiveness](https://nofursad.github.io/portfolio_project_1/readme/Responsive_pic.png)
 
 
 ## Strategy
@@ -30,43 +32,43 @@ My main target was to build the website with information about the club which ca
   * On the right side of the Navigation, Links to other pages of the website is available: Home, Gallery and Contact Us page.  
   * The button link to the current page is underlined in the navigation bar to let user know what page they are at.  
 
-  ![Navigation image](https://nofursad.github.io/portfolio_project_1/assets/images/readme/navigation.png)  
+  ![Navigation image](https://nofursad.github.io/portfolio_project_1/readme/navigation.png)  
   
 * **The Header**  
   * The header section consist of picture of the player who is ready to play the game.  
   
-  ![Header image](https://nofursad.github.io/portfolio_project_1/assets/images/readme/header.png)  
+  ![Header image](https://nofursad.github.io/portfolio_project_1/readme/header.png)  
 
 * **The Welcome Section**  
   * The welcome section of the index page gives the details about when the club was form and what is the main purpose behind forming the club.  
   * This section also give the benefit of playing the badminton on our health and how often do they organize the game.  
   
-  ![Welcome image](https://nofursad.github.io/portfolio_project_1/assets/images/readme/welcome_section.png)  
+  ![Welcome image](https://nofursad.github.io/portfolio_project_1/readme/welcome_section.png)  
   
 * **The Play time Section**  
   * This section of the page provide the details of the location and time of the day where the game is held.  
   * This section is targeted to the user who want the information about time and location of the game during the weekdays.  
   
-  ![Play time image](https://nofursad.github.io/portfolio_project_1/assets/images/readme/play_card.png)  
+  ![Play time image](https://nofursad.github.io/portfolio_project_1/readme/play_card.png)  
   
 * **Footer**  
   * The Footer section of all the pages consist of the media icon which are link to the club’s social media pages.  
   * The footer section consist of Facebook, twitter, youtube and instagram icon which are linked to the club’s page.  
   
-  ![Footer image](https://nofursad.github.io/portfolio_project_1/assets/images/readme/footer.png)  
+  ![Footer image](https://nofursad.github.io/portfolio_project_1/readme/footer.png)  
   
   * **The  Gallery Page**  
   * The Gallery page provide few pictures of the club activity which was taken during the summer chill out event of the club.  
   * The gallery page give an opportunity for a user to see the activity that takes place in club and the picture of player playing the game.  
   
-  ![Gallery image](https://nofursad.github.io/portfolio_project_1/assets/images/readme/gallery.png)  
+  ![Gallery image](https://nofursad.github.io/portfolio_project_1/readme/gallery.png)  
   
 * **The Contact Us Page**  
   * The contact us page is useful to all the user who come to page and want to get in touch to play badminton with club.  
   * The contact us page have a form to provide the detail of the user who want to get in touch with club.  
   * The form collect the Full name, email address and mobile number of the user.  
   
-  ![Contact us image](https://nofursad.github.io/portfolio_project_1/assets/images/readme/contact.png)  
+  ![Contact us image](https://nofursad.github.io/portfolio_project_1/readme/contact.png)  
   
 ## Testing
 
@@ -92,7 +94,7 @@ No Unfixed Bugs.
   
 **Accessibility**: I have confirmed that texts on the website are easy to read by choosing the right color and fonts. And confirm website is accessible by running it through **lighthouse** in devtools.  
   
-![Accessibility](https://nofursad.github.io/portfolio_project_1/assets/images/readme/Validity.png)
+![Accessibility](https://nofursad.github.io/portfolio_project_1/readme/Validity.png)
 
 
 ## Deployment

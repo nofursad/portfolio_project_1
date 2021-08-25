@@ -151,7 +151,7 @@ main {
     width: 70%;
     margin: 10px auto;
     display: grid;
-    grid-template-columns: repeat(5, auto);
+    grid-template-columns: repeat(5, 1fr);
     background-image: url('../images/botwell.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
