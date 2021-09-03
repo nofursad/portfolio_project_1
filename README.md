@@ -1,4 +1,4 @@
-![Danfe Badminton Society Logo](https://nofursad.github.io/portfolio_project_1/Danfe_Logo_300.png)
+![Danfe Badminton Society Logo](https://nofursad.github.io/portfolio_project_1/assets/images/Danfe_Logo_300.png)
 
 # Danfe Badminton Society
 
