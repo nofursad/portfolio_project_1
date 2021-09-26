@@ -57,7 +57,7 @@ My main target was to build the website with information about the club which ca
   
   ![Footer image](https://nofursad.github.io/portfolio_project_1/readme/footer.png)  
   
-  * **The  Gallery Page**  
+* **The  Gallery Page**  
   * The Gallery page provide few pictures of the club activity which was taken during the summer chill out event of the club.  
   * The gallery page give an opportunity for a user to see the activity that takes place in club and the picture of player playing the game.  
   
